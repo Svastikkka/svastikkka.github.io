@@ -1,6 +1,5 @@
-import { defineConfig } from 'astro/config'
+// @ts-check
+import { defineConfig } from 'astro/config';
 
-export default defineConfig({
-  site: 'https://svastikkka.github.io',
-  base: '/',
-})
+// https://astro.build/config
+export default defineConfig({});
