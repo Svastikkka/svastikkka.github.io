@@ -1,6 +1,9 @@
 title: "Svastikkka's Blog"
 description: "Exploring and simplifying machine learning concepts"
-theme: minima
 author: Manshu Sharma
 url: "https://svastikkka.github.io"
-base: ''
+url: "https://svastikkka.github.io/SVASTIKKKA"
+base: '/'
+
+theme: minima
+markdown: kramdown
