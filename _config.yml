@@ -1,10 +1,10 @@
-title: "Svastikkka's Blog"
-description: "Exploring and simplifying machine learning concepts"
-author: Manshu Sharma
+# title: "Svastikkka's Blog"
+# description: "Exploring and simplifying machine learning concepts"
+# author: Manshu Sharma
 
-# Base URL setup for user site (must be empty)
-url: "https://svastikkka.github.io"
-baseurl: ""  # <-- Important: EMPTY, not "/"
+# # Base URL setup for user site (must be empty)
+# url: "https://svastikkka.github.io"
+# baseurl: ""  # <-- Important: EMPTY, not "/"
 
-theme: minima
-markdown: kramdown
+# theme: minima
+# markdown: kramdown
